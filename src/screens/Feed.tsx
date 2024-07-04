@@ -37,7 +37,7 @@ export default function Feed() {
         imageUrl: Math.random() < 0.5
           ? 'https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XERGRFYAXVEHTI4Y2WJ4IENP6M.jpg?auth=a4a66d2abc55e4b72746ba343e55a309b2f352af2798054baa3cc86dd8edbb33&width=1393&height=699'
           : 'https://portalpopline.com.br/wp-content/uploads/2024/05/capa-deadpool-wolverine-2-jpg.webp',
-        text: 'Vamo nessa porra!!!',
+        text: 'Um salve de Deadpool!!!',
         likes: Math.floor(Math.random() * 10),
         comments: Math.floor(Math.random() * 50)
       }));
